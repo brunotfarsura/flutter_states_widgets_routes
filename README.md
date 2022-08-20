@@ -3,6 +3,9 @@ Flutter Mobile Engineering First Class
 
 Widgets, UI, states, rotas
 
+
+flutter run -d chrome
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
